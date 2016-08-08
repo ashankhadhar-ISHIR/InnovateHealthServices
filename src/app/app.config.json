@@ -1,0 +1,14 @@
+{
+  "appname": "InnovateHealthServices",
+  "scope": "ProductReader BuyerReader CategoryReader AddressReader PromotionReader CreditCardReader OrderReader MeAddressAdmin",
+  "clientid": "377AA3B8-C22A-4DC1-BA2F-A66BB29C90DD",
+  "buyerid": "Vendor",
+  "environment": "prod",
+  "anonymous": true,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
